@@ -1,1 +1,1 @@
-My first readme i run the commit from github.com
+My first readme commit from github.com
