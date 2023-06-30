@@ -1,1 +1,1 @@
-My first readme commit from github.com! and first pull, itg gave me tough time
+how to be up to date in git
